@@ -1,3 +1,9 @@
+<div align="right">
+
+[中文](./README.md) | [English](./README.en.md)
+
+</div>
+
 # 什么是mybatis
 
 >MyBatis是一个持久层框架，支持自定义SQL、存储过程以及高级映射。它减少了JDBC设置参数和获取结果集的代码工作，通过XML或注解将Java的原始类型、接口、POJO映射到数据库记录中。
